@@ -1,7 +1,7 @@
 {
   "_class": "page",
   "booleanOperation": -1,
-  "do_objectID": "02BC7EBA-BF2F-44DB-9888-DC9DF34F7CD1",
+  "do_objectID": "76B5B018-B06E-4464-B1C5-255CE4D67C2A",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -22,7 +22,7 @@
   "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
-    "base": 0,
+    "base": -427,
     "guides": [
     ]
   },
@@ -34,9 +34,21 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
+    {
+      "class": "symbolMaster",
+      "id": "8C14D964-CD51-49BB-BA87-62B8A6A87715"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "9A7976F5-FA09-49D5-ABBB-64E438670AE1"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "A3AF8F12-5C45-4A24-8081-ED72847CF8AA"
+    }
   ],
-  "name": "Page 1",
-  "nameIsFixed": false,
+  "name": "Logo",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -50,7 +62,7 @@
   },
   "verticalRulerData": {
     "_class": "rulerData",
-    "base": 0,
+    "base": -635,
     "guides": [
     ]
   }

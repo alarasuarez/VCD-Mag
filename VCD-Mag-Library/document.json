@@ -33,7 +33,10 @@
     "version": 105
   },
   "pages": [
-    "Page 1"
+    "Library Preview",
+    "Logo",
+    "UI Elements",
+    "Student Listings"
   ],
   "userInfo": {
     "com.invisionlabs.sync": {
